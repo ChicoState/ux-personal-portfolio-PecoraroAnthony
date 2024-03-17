@@ -1,5 +1,7 @@
 # The Parking Kiosk Paradigm
 
+## Anthony Pecoraro - March 17th, 2024
+
 Throughout my life, I've seen and used many flavors of parking meters. More often than not, these meters would be physically beaten up, difficult to read, and notoriously difficult to pay for - often requiring change in exchange for parking time (which varies greatly depending on where you are in California). Here's a look at what a couple standard parking meters look like in the city of Chico:
 
 ![Coin Meter](https://chico.ca.us/documents/I-Want-To/Pay/Parking-Violations/mike-norris-_ly2sabjnw8-unsplash.jpg "Coin Meter")
@@ -9,6 +11,8 @@ These meters tend to be the most challenging to use as only coins are accepted t
 ![Meter With Card Option](https://www.chicoer.com/wp-content/uploads/2020/03/EMERGENCY3.jpg?w=1024 "Meter With Card Option")
 
 These meters are designed much better in comparison - accepting credit cards or coins as payment. On top of that, they offer a larger, brighter screen to see your parking time and  payment information.
+
+## The New Paradigm
 
 However, I recently came across a new type of parking meter while my dad was visiting me here in Chico. These parking 'kiosks' differentiate themselves from standard meters by offering not only an easier experience paying for your parking but also reduce the number of units needed to provide parking payment across the city. This is because the kisoks run a ticket-based system in which people parking provide their license plate number, total parking time to be purchased, and payment via card or coins to then receive their parking ticket with the aforementioned information. By using a ticketed system, only one kiosk would be needed per block of parking instead of meters in front of every possible parking space. 
 
