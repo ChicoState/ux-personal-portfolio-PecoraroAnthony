@@ -8,4 +8,4 @@ Coming soon.
 
 ## UX Journal
 
-[Replace with title of journal](j01/)
+[The Parking Kiosk Paradigm](j01/)
